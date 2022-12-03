@@ -1,1 +1,5 @@
-this is a test to see if mayhem even gets here.
+project: mayhem-cmake-example
+target: fuzzme
+
+cmds:
+  - cmd: /build/fuzzme
